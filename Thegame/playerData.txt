@@ -1,0 +1,6 @@
+complete=[-1]
+completecust=[-1]
+easycomplete=[-1]
+hardcomplete=[-1]
+soundloud=1.0
+diffuc=2
